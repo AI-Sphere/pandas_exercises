@@ -47,3 +47,38 @@
 
 学习此课程可以关注公众号AI圈终身学习(ID:AIHomie)的组队学习活动（非盈利），一起掌握数据分析。
 
+
+----
+
+### D1-探索Chipotle快餐数据
+
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511898142985.jpg)
+
+### D2-探索2012欧洲杯数据
+
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511897834596.jpg)
+
+### D3-探索酒类消费数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511898936358.jpg)
+
+### D4-探索1960 - 2014 美国犯罪数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511899100688.jpg)
+### D5-探索虚拟姓名数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511899977731.jpg)
+
+### D6-探索风速数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511899582926.jpg)
+### D7-探索泰坦尼克灾难数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511900235664.jpg)
+
+### D8-探索Pokemon数据
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511897232431.jpg)
+
+### D9-探索Apple公司股价数据
+
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511900566782.jpg)
+
+### D10-探索Iris纸鸢花数据
+
+![](https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15511901015163.jpg)
+
